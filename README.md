@@ -7,10 +7,10 @@ An example Unity project to show differences between Perlin noise and random noi
 ## Perlin noise example
 ![PerlinNoise](/images/perlin_noise.png)
 
-# Blog post
+## Blog post
 [Medium](https://link.medium.com/GH7Fc2weiab)
 
-# License
+## License
 The MIT License (MIT)
 
 Copyright (c) 2015 Chris Kibble
